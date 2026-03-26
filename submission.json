@@ -1,0 +1,7 @@
+{
+  "prompt": "A deeply emotional, cinematic scene of a crowded urban street filled with people walking in different directions. In the foreground, people appear solid and realistic. Moving into the midground, people begin to fade into semi-transparent forms. In the background, human figures dissolve completely into drifting smoke and air, leaving only ghostly silhouettes made of pollution particles. The transition from solid human to disappearing smoke should be smooth and continuous, representing gradual loss. No text, no labels, no charts. The environment should feel heavy, hazy, and suffocating, with muted gray and brown tones dominating the scene. Lighting should be soft and diffused, as if sunlight is struggling to penetrate polluted air. The composition should emphasize depth, with perspective drawing the eye from clarity to disappearance. Style: hyper-realistic, cinematic, high detail, magazine cover quality, 4k resolution, strong atmospheric depth, emotional and haunting tone. Negative prompt: charts, graphs, bar charts, pie charts, text, labels, infographic style, globe, thermometer, obvious climate symbols",
+  "model": "DALL·E 3",
+  "dataset_name": "Global Burden of Disease - Air Pollution Mortality",
+  "dataset_url": "https://ghdx.healthdata.org/gbd-results-tool",
+  "insight": "Air pollution causes millions of deaths annually, gradually erasing human presence in densely populated areas."
+}
